@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29001.49
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PodcastEnhancer", "PodcastEnhancer\PodcastEnhancer.csproj", "{44FA45A6-F48E-4779-A05E-72DDB7D9F073}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44FA45A6-F48E-4779-A05E-72DDB7D9F073}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44FA45A6-F48E-4779-A05E-72DDB7D9F073}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44FA45A6-F48E-4779-A05E-72DDB7D9F073}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44FA45A6-F48E-4779-A05E-72DDB7D9F073}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F94F17EA-1B64-4888-8EF9-9AE0932D57F5}
+	EndGlobalSection
+EndGlobal
